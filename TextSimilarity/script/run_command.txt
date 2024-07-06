@@ -1,0 +1,1 @@
+~/spark/bin/spark-submit --master spark://83.212.81.105:7077 script.py

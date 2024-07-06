@@ -1,0 +1,11 @@
+Original,Paraphrase,JaccardDistance
+hdfs://master:9000/user/user/data/5361-original.txt,hdfs://master:9000/user/user/data/5359-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/5848-original.txt,hdfs://master:9000/user/user/data/5848-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/3358-original.txt,hdfs://master:9000/user/user/data/3360-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/3427-original.txt,hdfs://master:9000/user/user/data/3425-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/5242-original.txt,hdfs://master:9000/user/user/data/5245-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/7566-original.txt,hdfs://master:9000/user/user/data/7566-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/5359-original.txt,hdfs://master:9000/user/user/data/5359-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/7381-original.txt,hdfs://master:9000/user/user/data/5824-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/7565-original.txt,hdfs://master:9000/user/user/data/7566-paraphrase.txt,0.0
+hdfs://master:9000/user/user/data/3426-original.txt,hdfs://master:9000/user/user/data/3425-paraphrase.txt,0.0
